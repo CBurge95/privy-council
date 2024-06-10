@@ -1,4 +1,5 @@
-# A King's Counsel: Privy Council Registers, 1540-1547
+# A King's Counsel
+## Privy Council Registers in the Reign of Henry VIII, 1540-1547
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
